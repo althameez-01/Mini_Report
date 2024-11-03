@@ -1,0 +1,4 @@
+Latitude,Humidity,Temperature,Longitude,Number of Hospitals,Number of Cases,Number of Deaths,Day,Year,Month,Predicted Risk Level
+13.0827,78,30,80.2707,10,50,1,15,2024,10,Mylapore
+13.067439,82,32,80.249583,8,120,3,16,2024,10,Nungambakkam
+13.0358,75,29,80.2083,7,90,2,17,2024,10,T. Nagar

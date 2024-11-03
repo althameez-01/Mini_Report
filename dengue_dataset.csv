@@ -1,0 +1,5 @@
+Latitude,Longitude,Temperature,Humidity,Area_Name,Day,Month,Year,Num_Cases,Num_Hospitals,Num_Deaths
+12.9716,77.5946,30.5,70,Bangalore,10,10,2024,100,15,2
+13.0827,80.2707,28,80,Chennai,15,10,2024,150,20,3
+9.9251,78.1198,32,60,Tuticorin,20,10,2024,200,10,5
+15.3173,75.7139,25.5,90,Dharwad,5,10,2024,50,5,0
